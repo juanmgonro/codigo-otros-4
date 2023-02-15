@@ -1,7 +1,7 @@
 package codigodeotros.ejercicio4;
 //Se importa la clase scanner
 import java.util.Scanner;
-
+//Este codigo es para jugar piedra papel o tijeras y te dice que jugador gano
 public class Ejercicio4 {
 	public static void main(String[] args) {
 		//Agregue el System.in del scanner
